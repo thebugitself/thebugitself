@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/thebugitself/thebugitself/output/snake.svg" alt="Snake animation" />
-
-###
